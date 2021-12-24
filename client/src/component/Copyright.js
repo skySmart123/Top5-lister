@@ -13,7 +13,7 @@ export default function Copyright(props) {
             {'.'}
 
             <br/>
-            Created by xxx
+            Created by Yang Yu
         </Typography>
     );
 }
